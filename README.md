@@ -11,7 +11,7 @@ This is a simple Task Management System implemented using Django and Django REST
 ## Technologies Used
 
 - Python 3.12
-- Django 3.2
-- Django REST Framework 3.1
+- Django 5.0
+- Django REST Framework 3.15
 - SQLite (default database)
 

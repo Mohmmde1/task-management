@@ -12,6 +12,11 @@ class TaskListView(generics.ListAPIView):
     queryset = Task.objects.all()
     serializer_class = TaskSerializer
 
+# Retrieve task by id
+class TaskRetrieveView(generics.RetrieveAPIView):
+    queryset = Task.objects.all()
+    serializer_class = TaskSerializer
+    
 # Delete a task
 class TaskDeleteView(generics.DestroyAPIView):
     queryset = Task.objects.all()

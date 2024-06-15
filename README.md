@@ -1,6 +1,6 @@
 # Task Management System
 
-This is a simple Task Management System implemented using Django and Django REST Framework. It allows users to manage tasks by providing CRUD (Create, Read, Update, Delete) functionalities via RESTful APIs.
+This is a simple Task Management System implemented using Django and Django REST Framework. It allows users to manage tasks by providing (Create, Read, Delete) functionalities via RESTful APIs.
 
 ## Features
 
